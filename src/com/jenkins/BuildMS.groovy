@@ -1,6 +1,6 @@
 package com.jenkins
 
-def BuildMS(){
+def mvnBuildPackage(){
     println "MVN build package ...."
 
 }
